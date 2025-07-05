@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello there, I'm Elie!
 
-<!--
-**elie-gordo/elie-gordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | AI Integrator | Automation & Web3 Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer blending **code and no-code** to build powerful, scalable, and smart digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I do
+- **Full-Stack Development** – Modern web apps using React, Node.js, Next.js, Tailwind, etc.
+- **AI Integration** – Automation, AI agents, OpenAI, LangChain, custom chatbots & tools.
+- **No-Code Expertise** – Rapid prototyping with platforms like **Bolt.new**, **Lovable**, and more.
+- **Branding & Design** – Creating cohesive brand identities, UI/UX concepts, and digital presence.
+- **Web3 Projects** – Smart contracts, dApps, and blockchain integration.
+- **Freelance Services** – Helping clients go from idea to launch with tailored tech solutions.
+
+🔧 Currently building **Orion Solution**, a digital studio delivering AI-powered services for entrepreneurs and businesses.
+
+---
+
+💡 I love clean code, clever automations, and smart user experiences.
