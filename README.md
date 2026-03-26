@@ -1,15 +1,16 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+!+Moi+c'est+Elliott+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Integrator+%7C+Web3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Elie;Full-Stack+Developer+%7C+AI+Integration+Specialist" alt="Typing SVG" />
 
 <br/>
 
-**Développeur Full-Stack & Intégrateur IA** · Expert React | Next.js | Node.js | Python  
-Étudiant Master 2 Intelligence Artificielle & Machine Learning — Holberton School  
+🚀 **Full-Stack Developer | AI Integration Specialist**  
 
-Je conçois des architectures scalables mêlant **IA**, **automatisation** et **blockchain**  
-pour transformer des idées en produits déployés en production.
+I build smart, scalable digital products with code and AI.  
+💻 Web apps, AI agents, chatbots, branding, Web3 — from idea to launch.  
+🧠 Currently building **Orion Solution**, a digital studio focused on AI-powered services.  
+💡 Clean code, clever systems, smooth user experiences. Always.
 
 <br/>
 
@@ -21,9 +22,9 @@ pour transformer des idées en produits déployés en production.
 
 ---
 
-### 🧠 À propos
+### 🧠 About Me
 
-Développeur indépendant basé en **Haute-Savoie, France**, je travaille sur un portefeuille de projets orientés **revenus passifs** — DeFi/blockchain, automatisation IA et produits digitaux. De l'idée au déploiement en production, j'assure l'autonomie technique complète de mes projets. PME et startups, je suis ouvert aux opportunités.
+Independent developer based in **Haute-Savoie, France**, working on a portfolio of projects focused on **passive income** — DeFi/blockchain, AI automation, and digital products. From concept to production deployment, I handle the full technical scope. Currently studying **AI & Machine Learning** at Holberton School.
 
 ---
 
@@ -44,7 +45,7 @@ Développeur indépendant basé en **Haute-Savoie, France**, je travaille sur un
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-**IA & Automatisation**  
+**AI & Automation**  
 ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat)
@@ -56,7 +57,7 @@ Développeur indépendant basé en **Haute-Savoie, France**, je travaille sur un
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor_(Solana)-9945FF?style=flat&logo=solana&logoColor=white)
 
-**DevOps & Outils**  
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -65,47 +66,44 @@ Développeur indépendant basé en **Haute-Savoie, France**, je travaille sur un
 
 ---
 
-### 🎯 Focus actuel
+### 🎯 Current Focus
 
 ```
-🔥  Side Projects : DeFi yield farming, crash games on-chain, produits digitaux
-🤖  Agents IA : multi-agents autonomes, tool calling, RAG, embeddings
-⚡  Automatisation : workflows n8n + IA, cold outreach, scraping intelligent
-🌐  Web3 : smart contracts Solana (Anchor/Rust), migrations de tokens
+🔥  Side Projects  →  DeFi yield farming, on-chain crash games, digital products
+🤖  AI Agents      →  Multi-agent systems, tool calling, RAG, embeddings
+⚡  Automation     →  n8n + AI workflows, cold outreach, smart scraping
+🌐  Web3           →  Solana smart contracts (Anchor/Rust), token migrations
+🏢  Orion Solution →  AI-powered digital studio (chatbots, branding, web apps)
 ```
 
 ---
 
-### 🎓 Études en cours
+### 🎓 Education
 
 <a href="https://www.holbertonschool.fr/">
-  <img src="https://img.shields.io/badge/HOLBERTON%20SCHOOL-Master%20IA%20%26%20Machine%20Learning-white?style=for-the-badge&labelColor=c41e3a&color=36393f" alt="Holberton School" />
+  <img src="https://img.shields.io/badge/HOLBERTON%20SCHOOL-Master%20AI%20%26%20Machine%20Learning-white?style=for-the-badge&labelColor=c41e3a&color=36393f" alt="Holberton School" />
 </a>
 
-**Master 2 – Intelligence Artificielle & Machine Learning** *(fév. 2026 – déc. 2030)*
+**Master's Degree – Artificial Intelligence & Machine Learning** *(Feb. 2026 – Dec. 2030)*
 
-Parcours pro de 5 ans orienté data & IA :  
-- **Année 1 (full-time)** : C/C++, Unix/Linux, algorithmique, développement web, BDD, sécurité  
-- **Années 2 à 5 (alternance)** : Machine Learning, Deep Learning, Computer Vision, NLP, systèmes de recommandation  
+5-year professional track focused on data & AI:  
+- **Year 1 (full-time)** : C/C++, Unix/Linux, algorithms, web development, databases, security  
+- **Years 2–5 (work-study)** : Machine Learning, Deep Learning, Computer Vision, NLP, recommendation systems  
 
-**Techno** : C, C++, Unix/Linux, Bash, Python, SQL, HTML5, CSS3, Git, TensorFlow, Keras, Pandas, NumPy
-
-- **Sprint en cours** : Fondamentaux de la programmation (C, Shell, Linux)
-- **Sprint à venir** : Développement web et bases de données
-- **Objectif final** : Titre RNCP niveau 5 → [Développeur web & web mobile](https://www.francecompetences.fr/recherche/rncp/37674/)
+**Stack** : C, C++, Unix/Linux, Bash, Python, SQL, HTML5, CSS3, Git, TensorFlow, Keras, Pandas, NumPy
 
 ---
 
-### 💼 Expérience
+### 💼 Experience
 
-| Rôle | Entreprise | Période | Stack & Focus |
-|------|-----------|---------|---------------|
-| **Responsable Digital / Marketing** | GIANT Lighting 📸 | nov. 2023 – présent | E-commerce, automatisation IA, SEO/SEA, campagnes multicanales, branding |
-| **Développeur Web – Refonte site** | GIANT Consulting 🌐 | déc. 2025 – présent | Next.js, React, TypeScript, SEO, performance, composants réutilisables |
+| Role | Company | Period | Stack & Focus |
+|------|---------|--------|---------------|
+| **Digital & Marketing Lead** | GIANT Lighting 📸 | Nov. 2023 – Present | E-commerce, AI automation, SEO/SEA, multichannel campaigns, branding |
+| **Web Developer – Website Redesign** | GIANT Consulting 🌐 | Dec. 2025 – Present | Next.js, React, TypeScript, SEO, performance, reusable components |
 
 ---
 
-### 🚀 Projets pinnés
+### 🚀 Pinned Projects
 
 <a href="https://github.com/elie-gordo/Portfolio-Elliott-LANZA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=elie-gordo&repo=Portfolio-Elliott-LANZA&theme=tokyonight&hide_border=true" />
@@ -134,9 +132,9 @@ Parcours pro de 5 ans orienté data & IA :
 
 ---
 
-### 📫 Contact
+### 📫 Get In Touch
 
-Ouvert aux opportunités, collaborations et projets ambitieux.
+Open to opportunities, collaborations, and ambitious projects.
 
 <div align="center">
 
