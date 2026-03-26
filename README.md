@@ -24,7 +24,7 @@ I build smart, scalable digital products with code and AI.
 
 ### 🧠 About Me
 
-Independent developer based in **Haute-Savoie, France**, working on a portfolio of projects focused on **passive income** — DeFi/blockchain, AI automation, and digital products. From concept to production deployment, I handle the full technical scope. Currently studying **AI & Machine Learning** at Holberton School.
+Independent developer based in **Lyon, France**, working on a portfolio of projects focused on **passive income** — DeFi/blockchain, AI automation, and digital products. From concept to production deployment, I handle the full technical scope. Currently studying **AI & Machine Learning** at Holberton School.
 
 ---
 
