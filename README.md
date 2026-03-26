@@ -101,34 +101,7 @@ Independent developer based in **Lyon, France**, working on a portfolio of proje
 | **Digital & Marketing Lead** | GIANT Lighting 📸 | Nov. 2023 – Present | E-commerce, AI automation, SEO/SEA, multichannel campaigns, branding |
 | **Web Developer – Website Redesign** | GIANT Consulting 🌐 | Dec. 2025 – Present | Next.js, React, TypeScript, SEO, performance, reusable components |
 
----
 
-### 🚀 Pinned Projects
-
-<a href="https://github.com/elie-gordo/Portfolio-Elliott-LANZA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elie-gordo&repo=Portfolio-Elliott-LANZA&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/elie-gordo/holbertonschool-low_level_programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elie-gordo&repo=holbertonschool-low_level_programming&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/elie-gordo/holbertonschool-printf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elie-gordo&repo=holbertonschool-printf&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=elie-gordo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elie-gordo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=elie-gordo&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
