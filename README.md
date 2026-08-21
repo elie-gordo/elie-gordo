@@ -84,7 +84,7 @@ Independent developer based in **Lyon, France**, working on a portfolio of proje
   <img src="https://img.shields.io/badge/HOLBERTON%20SCHOOL-Master%20AI%20%26%20Machine%20Learning-white?style=for-the-badge&labelColor=c41e3a&color=36393f" alt="Holberton School" />
 </a>
 
-**Master's Degree – Artificial Intelligence & Machine Learning** *(Feb. 2026 – Dec. 2030)*
+**Master's Degree – Artificial Intelligence & Machine Learning**
 
 5-year professional track focused on data & AI:  
 - **Year 1 (full-time)** : C/C++, Unix/Linux, algorithms, web development, databases, security  
