@@ -135,6 +135,7 @@ Spécialisée en conception et développement web, j'ai acquis des compétences 
 **Mise à niveau en arts appliqués, Graphic Design** · *sept. 2017 – aujourd'hui*
 
 Lors de ma formation en Manaa (Mise à Niveau en Arts Appliqués), j'ai approfondi mes compétences en dessin, design graphique, et techniques d'expression visuelle. J'ai appris à maîtriser les outils créatifs tout en développant ma pensée critique, mon sens esthétique et ma capacité à travailler sur des projets multidisciplinaires.
+
 ---
 
 ### 📫 Me contacter
