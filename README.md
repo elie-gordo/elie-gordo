@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%91%8B+Salut%2C+moi+c'est+Elie;D%C3%A9veloppeur+Web+%26+IA+g%C3%A9n%C3%A9rative;Votre+partenaire+tout-terrain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Elie;Web+%26+Generative+AI+Developer;Your+all-terrain+partner" alt="Typing SVG" />
 
 <br/>
 
-🚀 **Développeur Web & IA générative | Sites, contenus IA, automatisation | Votre partenaire tout-terrain**
+🚀 **Web & Generative AI Developer | Websites, AI content, automation | Your all-terrain partner**
 
 📍 France · 🎓 Holberton School France
 
@@ -19,23 +19,23 @@
 
 ---
 
-### 🧠 Infos
+### 🧠 About
 
-Un site ne se pense plus sans contenus visuels. Une vidéo, plus sans IA. Une entreprise, plus sans automatisation.
+A website is no longer complete without visual content. A video, no longer without AI. A business, no longer without automation.
 
-La plupart des projets se perdent entre un développeur, un monteur et une agence qui ne se parlent pas. Moi, je relie les trois.
+Most projects get lost between a developer, a video editor and an agency that don't talk to each other. I connect all three.
 
-Je conçois votre site ou votre boutique, je crée les visuels et vidéos qui le font vivre grâce à l'IA, et j'automatise ce qui vous fait perdre du temps. Un seul interlocuteur, une seule vision, de l'idée à la mise en ligne.
+I design your website or online store, create the visuals and videos that bring it to life with AI, and automate whatever is wasting your time. One point of contact, one vision, from idea to launch.
 
-**Ce que vous y gagnez :**
+**What you gain:**
 
-→ un projet livré plus vite, sans allers-retours entre prestataires  
-→ une image de marque cohérente, du site aux réseaux  
-→ des outils d'aujourd'hui, testés et choisis pour leur vraie valeur
+→ a project delivered faster, without back-and-forth between providers  
+→ a consistent brand image, from your website to your social media  
+→ today's tools, tested and chosen for their real value
 
 ---
 
-### 🛠️ Compétences
+### 🛠️ Skills
 
 **Frontend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -45,7 +45,7 @@ Je conçois votre site ou votre boutique, je crée les visuels et vidéos qui le
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend & Données**  
+**Backend & Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -54,13 +54,13 @@ Je conçois votre site ou votre boutique, je crée les visuels et vidéos qui le
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**IA & Data**  
+**AI & Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Design & Outils**  
+**Design & Tools**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=flat&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
@@ -69,79 +69,79 @@ Je conçois votre site ou votre boutique, je crée les visuels et vidéos qui le
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 
-**Connaissances du secteur**  
-E-commerce • Automatisation • Marketing digital • Publicité en ligne • Optimisation pour les moteurs de recherche (SEO) • Intelligence artificielle (IA) • Machine Learning & IA appliquée • Analyse et traitement de données • Automatisation & qualité logicielle • Développement logiciel & web full-stack • Algorithmique & résolution de problèmes • Design d'expérience utilisateur (UX) • Systèmes de gestion de contenu (CMS) • Entrepreneuriat • Compétences de supervision
+**Industry Knowledge**  
+E-commerce • Automation • Digital Marketing • Online Advertising • Search Engine Optimization (SEO) • Artificial Intelligence (AI) • Machine Learning & Applied AI • Data Analysis & Processing • Automation & Software Quality • Full-Stack Software & Web Development • Algorithms & Problem Solving • User Experience Design (UX) • Content Management Systems (CMS) • Entrepreneurship • Supervisory Skills
 
 ---
 
-### 💼 Expérience
+### 💼 Experience
 
-#### Responsable Digital / Marketing — GIANT Lighting 📸
-*Indépendant · nov. 2023 – juin 2026 · 2 ans 8 mois · Hybride*
+#### Digital & Marketing Lead — GIANT Lighting 📸
+*Self-employed · Nov 2023 – Jun 2026 · 2 yrs 8 mos · Hybrid*
 
-Je pilote l'ensemble de la stratégie digitale et marketing de GIANT Lighting, avec une approche orientée performance, cohérence de marque et expérience client.
+I lead GIANT Lighting's entire digital and marketing strategy, with a focus on performance, brand consistency and customer experience.
 
-J'interviens sur le développement et l'optimisation du site e-commerce, la mise en place d'automatisations basées sur l'IA, le SEO/SEA, ainsi que la gestion de campagnes publicitaires multicanales.
-Mon rôle consiste à structurer et faire évoluer un écosystème numérique complet, aligné avec les objectifs business, tout en renforçant l'identité visuelle et la visibilité de la marque.
+I work on developing and optimizing the e-commerce website, implementing AI-based automations, SEO/SEA, and managing multichannel advertising campaigns.
+My role is to structure and grow a complete digital ecosystem aligned with business goals, while strengthening the brand's visual identity and visibility.
 
-Je travaille en lien avec différents interlocuteurs pour transformer les besoins marketing en solutions digitales efficaces, mesurables et scalables.
+I work with various stakeholders to turn marketing needs into effective, measurable and scalable digital solutions.
 
-**Compétences clés :** Stratégie digitale • Marketing digital • E-commerce • Automatisation IA • SEO / SEA • Publicité en ligne • Branding • Analyse de performance • Travail en équipe
+**Key skills:** Digital Strategy • Digital Marketing • E-commerce • AI Automation • SEO / SEA • Online Advertising • Branding • Performance Analysis • Teamwork
 
-#### Développeur web – Refonte du site internet | Giant Consulting — GIANT Consulting 🌐
-*Freelance · déc. 2025 – mai 2026 · 6 mois · Hybride*
+#### Web Developer – Website Redesign | Giant Consulting — GIANT Consulting 🌐
+*Freelance · Dec 2025 – May 2026 · 6 mos · Hybrid*
 
-Je travaille sur la refonte complète du site internet de Giant Consulting avec Next.js, React et TypeScript, en visant une expérience fluide, un site performant et une base code scalable.
+I'm working on the complete redesign of Giant Consulting's website with Next.js, React and TypeScript, aiming for a smooth experience, a high-performance site and a scalable codebase.
 
-J'interviens sur l'architecture front-end, la création de composants réutilisables, l'optimisation SEO/performance et l'intégration des contenus dans une logique de maintenabilité.
-Je travaille en équipe, en collaboration avec des profils techniques et non techniques, pour cadrer les besoins, itérer rapidement et livrer une solution alignée avec les objectifs métier.
+I handle front-end architecture, building reusable components, SEO/performance optimization and content integration with maintainability in mind.
+I work as part of a team, collaborating with technical and non-technical profiles to scope needs, iterate quickly and deliver a solution aligned with business objectives.
 
-**Stack & compétences :** Next.js • React • TypeScript • JavaScript • HTML • CSS • Git • SEO • Performance • UX/UI • Travail en équipe • Refonte de site
+**Stack & skills:** Next.js • React • TypeScript • JavaScript • HTML • CSS • Git • SEO • Performance • UX/UI • Teamwork • Website Redesign
 
 ---
 
-### 🎓 Formation
+### 🎓 Education
 
 <a href="https://www.holbertonschool.fr/">
-  <img src="https://img.shields.io/badge/HOLBERTON%20SCHOOL%20FRANCE-Master%20IA%20%26%20Machine%20Learning-white?style=for-the-badge&labelColor=c41e3a&color=36393f" alt="Holberton School France" />
+  <img src="https://img.shields.io/badge/HOLBERTON%20SCHOOL%20FRANCE-Master%20AI%20%26%20Machine%20Learning-white?style=for-the-badge&labelColor=c41e3a&color=36393f" alt="Holberton School France" />
 </a>
 
 #### Holberton School France
-**Master, Intelligence Artificielle & Machine Learning** · *févr. 2026 – déc. 2028*
+**Master's Degree, Artificial Intelligence & Machine Learning** · *Feb 2026 – Dec 2028*
 
-Parcours orienté data & IA, en pédagogie par projets. Socle en programmation bas niveau (C/C++), systèmes Unix/Linux, algorithmique et sécurité, puis spécialisation en alternance : Machine Learning, Deep Learning, Computer Vision, NLP et déploiement de modèles en conditions réelles.
+Data & AI track with project-based learning. Foundations in low-level programming (C/C++), Unix/Linux systems, algorithms and security, followed by a work-study specialization: Machine Learning, Deep Learning, Computer Vision, NLP and real-world model deployment.
 
-Je vise des solutions robustes, automatisées et scalables, alignées avec les standards industriels.
+I aim for robust, automated and scalable solutions aligned with industry standards.
 
-**Stack :** C, C++, Unix/Linux, Bash, JavaScript, Python, SQL, HTML5, CSS3, Git, Pandas, NumPy, TensorFlow, Keras, ML, DL, CV, NLP, reco, algorithmique, sécurité.
+**Stack:** C, C++, Unix/Linux, Bash, JavaScript, Python, SQL, HTML5, CSS3, Git, Pandas, NumPy, TensorFlow, Keras, ML, DL, CV, NLP, recommender systems, algorithms, security.
 
-*Apprentissage continu, vision long terme.*
+*Continuous learning, long-term vision.*
 
 #### OpenClassrooms
-**Cours en libre accès, Développement web** · *févr. 2025 – août 2025*
+**Open Course, Web Development** · *Feb 2025 – Aug 2025*
 
-Niveau : Acquisitions de nouvelles compétences en développement web
+Level: Acquiring new web development skills
 
-Formation full-stack par projets professionnalisants. Intégration et développement front-end (HTML, CSS, JavaScript, React), conception de back-end et d'API (Node.js, Python), bases de données, tests et optimisation des performances, le tout en méthodologie agile jusqu'à la mise en ligne d'applications complètes.
+Project-based full-stack training with professional projects. Front-end integration and development (HTML, CSS, JavaScript, React), back-end and API design (Node.js, Python), databases, testing and performance optimization, all in an agile methodology through to deploying complete applications.
 
 #### emlyon business school
-**La Toile (l'école de la qualification numérique), Conception et développement web** · *oct. 2024 – févr. 2025*
+**La Toile (digital skills school), Web Design & Development** · *Oct 2024 – Feb 2025*
 
-Activités et associations : Ambassadeur de promo
+Activities and societies: Class Ambassador
 
-Spécialisée en conception et développement web, j'ai acquis des compétences solides en création de sites web, intégration front-end (HTML, CSS, JavaScript). Ce parcours m'a permis de maîtriser les bases du développement web et d'acquérir une approche pratique pour construire des solutions numériques efficaces.
+Specialized in web design and development, I gained solid skills in building websites and front-end integration (HTML, CSS, JavaScript). This program allowed me to master web development fundamentals and develop a practical approach to building effective digital solutions.
 
 #### Institut Artline
-**Mise à niveau en arts appliqués, Graphic Design** · *sept. 2017 – aujourd'hui*
+**Applied Arts Foundation Year, Graphic Design** · *Sep 2017 – Present*
 
-Lors de ma formation en Manaa (Mise à Niveau en Arts Appliqués), j'ai approfondi mes compétences en dessin, design graphique, et techniques d'expression visuelle. J'ai appris à maîtriser les outils créatifs tout en développant ma pensée critique, mon sens esthétique et ma capacité à travailler sur des projets multidisciplinaires.
+During my MANAA (Applied Arts Foundation Year), I deepened my skills in drawing, graphic design and visual expression techniques. I learned to master creative tools while developing my critical thinking, aesthetic sense and ability to work on multidisciplinary projects.
 
 ---
 
-### 📫 Me contacter
+### 📫 Get In Touch
 
-Vous avez un projet de site, de contenu ou d'automatisation ?  
-Écrivez-moi, je vous réponds sous 24 h.
+Have a website, content or automation project?  
+Write to me, I'll reply within 24 hours.
 
 <div align="center">
 
@@ -157,6 +157,6 @@ Vous avez un projet de site, de contenu ou d'automatisation ?
 
 ![](https://komarev.com/ghpvc/?username=elie-gordo&color=6C63FF&style=flat-square&label=Profile+Views)
 
-*"Un seul interlocuteur, une seule vision, de l'idée à la mise en ligne."*
+*"One point of contact, one vision, from idea to launch."*
 
 </div>
